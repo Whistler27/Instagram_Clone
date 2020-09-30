@@ -1,2 +1,2 @@
 # Instagram_Clone
-This is a InstaClone made using MERN STACK.
+This is Instagram Clone made primarily using MERN Stack.
